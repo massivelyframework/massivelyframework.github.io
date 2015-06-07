@@ -13,6 +13,7 @@ sass:
 
 # Files excluded from site build
 exclude:
+    - vendor
     - CNAME
     - Gemfile
     - Gemfile.lock
