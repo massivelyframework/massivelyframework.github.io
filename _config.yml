@@ -1,0 +1,22 @@
+title: Massively Framework
+tagline: A modern, simple, and scalable open-source framework for creating MMORPGs
+url: https://massivelyframework.github.io/
+
+github:
+    repo: https://github.com/massivelyframework/massivelyframework.github.io
+
+highlighter: pygments
+
+timezone: America/New_York
+sass:
+    style: :compressed
+
+# Files excluded from site build
+exclude:
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - .gitignore
+    - README.md
+    - Rakefile
+
